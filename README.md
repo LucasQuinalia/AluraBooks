@@ -1,6 +1,6 @@
 ![](thumbnail.png)
 
-# Lista de Compras
+# AluraBooks
 
 Este projeto faz parte do meu aprendizado de JavaScript, no curso da Alura: JavaScript: métodos de array
 
